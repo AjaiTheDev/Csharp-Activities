@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\logical_questions\\question_logical\\activity_12\\activity_12.csproj",
+      "projectUniqueName": "C:\\Csharp logical clone\\activity_12\\activity_12.csproj",
       "projectName": "activity_12",
-      "projectPath": "C:\\logical_questions\\question_logical\\activity_12\\activity_12.csproj",
+      "projectPath": "C:\\Csharp logical clone\\activity_12\\activity_12.csproj",
       "packagesPath": "C:\\Users\\ajai.anil\\.nuget\\packages\\",
-      "outputPath": "C:\\logical_questions\\question_logical\\activity_12\\obj\\",
+      "outputPath": "C:\\Csharp logical clone\\activity_12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajai.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",

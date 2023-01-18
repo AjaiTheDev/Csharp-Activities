@@ -46,30 +46,30 @@ do
     switch (element)
     {
         case 1:
-            sortingFun();
+            SortingFun();
             break;
         case 2:
-            revSortingFun();
+            RevSortingFun();
             break;
         case 3:
-            searchFun();
+            SearchFun();
             break;
         case 4:
-            minimumVal();
+            MinimumVal();
             break;
         case 5:
-            maximumVal();
+            MaximumVal();
             break;
         case 6:
-            duplicate();
+            Duplicate();
             break;
         default:
-            exit();
+            Exit();
             break;
     }
 } while (m);
 
-void sortingFun()
+void SortingFun()
 {
 
     // after sorting
@@ -80,7 +80,7 @@ void sortingFun()
     }
 
 }
-void revSortingFun()
+void RevSortingFun()
 {
     for (int i = array.Length - 1; i >= 0; i--)
     {
@@ -88,7 +88,7 @@ void revSortingFun()
     }
 }
 
-void searchFun()
+void SearchFun()
 {
     Console.WriteLine("\n enter the search element");
     double searchVal = Convert.ToDouble(Console.ReadLine());
@@ -110,17 +110,17 @@ void searchFun()
     }
 }
 
-void minimumVal()
+void MinimumVal()
 {
     Console.WriteLine("minimum value = {0}", array[0]);
 }
 
-void maximumVal()
+void MaximumVal()
 {
     Console.WriteLine("maximum value = {0}", array[(array.Length) - 1]);
 }
 
-void duplicate()
+void Duplicate()
 {
 
     for (int i = 0; i < array.Length; i++)
@@ -138,7 +138,7 @@ void duplicate()
 
 }
 
-void exit()
+void Exit()
 {
     m = false;
 }

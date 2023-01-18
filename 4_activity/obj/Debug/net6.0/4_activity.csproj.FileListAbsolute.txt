@@ -13,3 +13,18 @@ C:\logical_questions\question_logical\4_activity\obj\Debug\net6.0\refint\4_activ
 C:\logical_questions\question_logical\4_activity\obj\Debug\net6.0\4_activity.pdb
 C:\logical_questions\question_logical\4_activity\obj\Debug\net6.0\4_activity.genruntimeconfig.cache
 C:\logical_questions\question_logical\4_activity\obj\Debug\net6.0\ref\4_activity.dll
+C:\Csharp logical clone\4_activity\bin\Debug\net6.0\4_activity.exe
+C:\Csharp logical clone\4_activity\bin\Debug\net6.0\4_activity.deps.json
+C:\Csharp logical clone\4_activity\bin\Debug\net6.0\4_activity.runtimeconfig.json
+C:\Csharp logical clone\4_activity\bin\Debug\net6.0\4_activity.dll
+C:\Csharp logical clone\4_activity\bin\Debug\net6.0\4_activity.pdb
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.csproj.AssemblyReference.cache
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.AssemblyInfoInputs.cache
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.AssemblyInfo.cs
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.csproj.CoreCompileInputs.cache
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.dll
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\refint\4_activity.dll
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.pdb
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\4_activity.genruntimeconfig.cache
+C:\Csharp logical clone\4_activity\obj\Debug\net6.0\ref\4_activity.dll

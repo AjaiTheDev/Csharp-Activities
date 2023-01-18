@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "do1mR4fyFzUKHT08ryfxwqsgeZHsV6v8VqHoOX+i8GnFlvirVO3CY2uaknwnfjw27pIGFEPbN5u65BpfRKZLZA==",
+  "dgSpecHash": "1ckfoeD3ucxVkEtzMU5IVpE+mvWPnQ1IqSyheNZdxxihwdzWKw6aylrukwZvYAosDCntbEtV/FKl1TlV6Q34EA==",
   "success": true,
-  "projectFilePath": "C:\\logical_questions\\question_logical\\3_activity\\3_activity.csproj",
+  "projectFilePath": "C:\\Csharp logical clone\\3_activity\\3_activity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

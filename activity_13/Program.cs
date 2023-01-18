@@ -8,7 +8,7 @@ do
 
     if(element == 000)
     {
-        myFun();
+        MyFun();
         break;
 
     }
@@ -18,7 +18,7 @@ do
     }
 }while(true);
 
-void myFun()
+void MyFun()
 {
    foreach(var i in list)
     {

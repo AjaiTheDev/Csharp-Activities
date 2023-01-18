@@ -1,0 +1,15 @@
+C:\Csharp logical clone\Activity_10\bin\Debug\net6.0\Activity_10.exe
+C:\Csharp logical clone\Activity_10\bin\Debug\net6.0\Activity_10.deps.json
+C:\Csharp logical clone\Activity_10\bin\Debug\net6.0\Activity_10.runtimeconfig.json
+C:\Csharp logical clone\Activity_10\bin\Debug\net6.0\Activity_10.dll
+C:\Csharp logical clone\Activity_10\bin\Debug\net6.0\Activity_10.pdb
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.csproj.AssemblyReference.cache
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.AssemblyInfoInputs.cache
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.AssemblyInfo.cs
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.csproj.CoreCompileInputs.cache
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.dll
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\refint\Activity_10.dll
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.pdb
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\Activity_10.genruntimeconfig.cache
+C:\Csharp logical clone\Activity_10\obj\Debug\net6.0\ref\Activity_10.dll

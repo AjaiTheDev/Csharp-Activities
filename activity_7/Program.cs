@@ -18,9 +18,13 @@ else if(milesTraveled > 50000 && milesTraveled < 100000)
 {
     freqFlightPoints= 30;
 }
-else
+else if(milesTraveled > 100000)
 {
     freqFlightPoints= 50;
+}
+else
+{
+    freqFlightPoints= 0;
 }
 
 Console.WriteLine($"\n{fName}");

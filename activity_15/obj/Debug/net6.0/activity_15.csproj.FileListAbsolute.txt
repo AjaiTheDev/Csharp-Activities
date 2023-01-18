@@ -13,3 +13,18 @@ C:\logical_questions\question_logical\activity_15\obj\Debug\net6.0\refint\activi
 C:\logical_questions\question_logical\activity_15\obj\Debug\net6.0\activity_15.pdb
 C:\logical_questions\question_logical\activity_15\obj\Debug\net6.0\activity_15.genruntimeconfig.cache
 C:\logical_questions\question_logical\activity_15\obj\Debug\net6.0\ref\activity_15.dll
+C:\Csharp logical clone\activity_15\bin\Debug\net6.0\activity_15.exe
+C:\Csharp logical clone\activity_15\bin\Debug\net6.0\activity_15.deps.json
+C:\Csharp logical clone\activity_15\bin\Debug\net6.0\activity_15.runtimeconfig.json
+C:\Csharp logical clone\activity_15\bin\Debug\net6.0\activity_15.dll
+C:\Csharp logical clone\activity_15\bin\Debug\net6.0\activity_15.pdb
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.csproj.AssemblyReference.cache
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.AssemblyInfoInputs.cache
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.AssemblyInfo.cs
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.csproj.CoreCompileInputs.cache
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.dll
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\refint\activity_15.dll
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.pdb
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\activity_15.genruntimeconfig.cache
+C:\Csharp logical clone\activity_15\obj\Debug\net6.0\ref\activity_15.dll

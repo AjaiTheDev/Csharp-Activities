@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\logical_questions\\question_logical\\activity_8\\activity_8.csproj": {}
+    "C:\\Csharp logical clone\\activity_8\\activity_8.csproj": {}
   },
   "projects": {
-    "C:\\logical_questions\\question_logical\\activity_8\\activity_8.csproj": {
+    "C:\\Csharp logical clone\\activity_8\\activity_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\logical_questions\\question_logical\\activity_8\\activity_8.csproj",
+        "projectUniqueName": "C:\\Csharp logical clone\\activity_8\\activity_8.csproj",
         "projectName": "activity_8",
-        "projectPath": "C:\\logical_questions\\question_logical\\activity_8\\activity_8.csproj",
+        "projectPath": "C:\\Csharp logical clone\\activity_8\\activity_8.csproj",
         "packagesPath": "C:\\Users\\ajai.anil\\.nuget\\packages\\",
-        "outputPath": "C:\\logical_questions\\question_logical\\activity_8\\obj\\",
+        "outputPath": "C:\\Csharp logical clone\\activity_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajai.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,3 +13,18 @@ C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\n
 C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.pdb
 C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.genruntimeconfig.cache
 C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\ref\1st_q.dll
+C:\Csharp logical clone\1st_q\bin\Debug\net6.0\1st_q.exe
+C:\Csharp logical clone\1st_q\bin\Debug\net6.0\1st_q.deps.json
+C:\Csharp logical clone\1st_q\bin\Debug\net6.0\1st_q.runtimeconfig.json
+C:\Csharp logical clone\1st_q\bin\Debug\net6.0\1st_q.dll
+C:\Csharp logical clone\1st_q\bin\Debug\net6.0\1st_q.pdb
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.csproj.AssemblyReference.cache
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.AssemblyInfoInputs.cache
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.AssemblyInfo.cs
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.csproj.CoreCompileInputs.cache
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.dll
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\refint\1st_q.dll
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.pdb
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\1st_q.genruntimeconfig.cache
+C:\Csharp logical clone\1st_q\obj\Debug\net6.0\ref\1st_q.dll
