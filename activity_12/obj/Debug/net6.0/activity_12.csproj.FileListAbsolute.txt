@@ -1,0 +1,15 @@
+C:\logical_questions\question_logical\activity_12\bin\Debug\net6.0\activity_12.exe
+C:\logical_questions\question_logical\activity_12\bin\Debug\net6.0\activity_12.deps.json
+C:\logical_questions\question_logical\activity_12\bin\Debug\net6.0\activity_12.runtimeconfig.json
+C:\logical_questions\question_logical\activity_12\bin\Debug\net6.0\activity_12.dll
+C:\logical_questions\question_logical\activity_12\bin\Debug\net6.0\activity_12.pdb
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.csproj.AssemblyReference.cache
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.AssemblyInfoInputs.cache
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.AssemblyInfo.cs
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.csproj.CoreCompileInputs.cache
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.dll
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\refint\activity_12.dll
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.pdb
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\activity_12.genruntimeconfig.cache
+C:\logical_questions\question_logical\activity_12\obj\Debug\net6.0\ref\activity_12.dll

@@ -1,0 +1,15 @@
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\bin\Debug\net6.0\1st_q.exe
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\bin\Debug\net6.0\1st_q.deps.json
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\bin\Debug\net6.0\1st_q.runtimeconfig.json
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\bin\Debug\net6.0\1st_q.dll
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\bin\Debug\net6.0\1st_q.pdb
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.csproj.AssemblyReference.cache
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.AssemblyInfoInputs.cache
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.AssemblyInfo.cs
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.csproj.CoreCompileInputs.cache
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.dll
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\refint\1st_q.dll
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.pdb
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\1st_q.genruntimeconfig.cache
+C:\Users\ajai.anil\Pictures\logical_questions\question_logical\1st_q\obj\Debug\net6.0\ref\1st_q.dll
