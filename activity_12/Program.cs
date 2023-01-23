@@ -17,9 +17,13 @@ for (int i = 0; i < 3; i++)
     destinationArray[i] = Console.ReadLine();
 }
 
+var arr = new String[nameArray.Length];
 
-var arr = nameArray.Concat(destinationArray).ToArray();
-Console.WriteLine("\njoined array\n");
+for (int i = 0; i < nameArray.Length; i++)
+{
+    arr[i] = $"{nameArray[i]} : {destinationArray[i]}";
+}
+
 foreach (var item in arr)
 {
     Console.WriteLine(item);

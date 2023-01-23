@@ -4,6 +4,7 @@ Console.WriteLine("enter dob in YYYY:MM:DD format");
 var Bday = Console.ReadLine();
 var myDate = Convert.ToDateTime(Bday);
 var day = (today - myDate).TotalDays;
+
 int daysInt = (int)day;
 int age = daysInt / 365;
 int ageHours = daysInt * 24;

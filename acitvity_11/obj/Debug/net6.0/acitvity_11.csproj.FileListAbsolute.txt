@@ -1,0 +1,15 @@
+C:\Csharp logical clone\acitvity_11\bin\Debug\net6.0\acitvity_11.exe
+C:\Csharp logical clone\acitvity_11\bin\Debug\net6.0\acitvity_11.deps.json
+C:\Csharp logical clone\acitvity_11\bin\Debug\net6.0\acitvity_11.runtimeconfig.json
+C:\Csharp logical clone\acitvity_11\bin\Debug\net6.0\acitvity_11.dll
+C:\Csharp logical clone\acitvity_11\bin\Debug\net6.0\acitvity_11.pdb
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.csproj.AssemblyReference.cache
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.AssemblyInfoInputs.cache
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.AssemblyInfo.cs
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.csproj.CoreCompileInputs.cache
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.dll
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\refint\acitvity_11.dll
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.pdb
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\acitvity_11.genruntimeconfig.cache
+C:\Csharp logical clone\acitvity_11\obj\Debug\net6.0\ref\acitvity_11.dll
