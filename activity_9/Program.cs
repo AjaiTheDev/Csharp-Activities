@@ -1,29 +1,50 @@
-﻿var today = DateTime.Today;
+﻿
+var DateInpArr = new string[10];
 Console.WriteLine("Type in your Date of birth:");
-var dob = Console.ReadLine();
-var myDate = Convert.ToDateTime(dob);
-var day = (today - myDate).TotalDays;
-
-int daysInt = (int)day;
-int age = daysInt / 365;
-
-if (age != 0)
+for (int i = 0;i < 10; i++)
 {
-    if (age < 10)
+    DateInpArr[i] = Console.ReadLine();
+}
+
+foreach (var i in DateInpArr)
+{
+    ShowDatesFormats(i);
+}
+
+
+void ShowDatesFormats(string element)
+{
+    var Today = DateTime.Today;
+    var MyDate = Convert.ToDateTime(element);
+    var Day = (Today - MyDate).TotalDays;
+    int DaysInt = (int)Day;
+    int Age = DaysInt / 365;
+
+    if (Age != 0 && Age < 100)
     {
-        Console.WriteLine($"You are {age} years old - Kid");
-    }
-    else if (age > 10 && age < 30)
-    {
-        Console.WriteLine($"You are {age} years old - Youth");
-    }
-    else if (age > 30 && age < 60)
-    {
-        Console.WriteLine($"You are {age} years old - Adult");
+        if (Age < 10)
+        {
+            Console.WriteLine($"{element} - You are {Age} years old - Kid");
+        }
+        else if (Age > 10 && Age < 30)
+        {
+            Console.WriteLine($"{element} - are {Age} years old - Youth");
+        }
+        else if (Age > 30 && Age < 60)
+        {
+            Console.WriteLine($"{element} - You are {Age} years old - Adult");
+        }
+        else if(Age > 60 && Age < 100)
+        {
+            Console.WriteLine($"{element} -You are {Age} years old - Older");
+        }
+
     }
     else
     {
-        Console.WriteLine($"You are {age} years old - Older");
+        Console.WriteLine("invalid input");
     }
 }
+
+
 

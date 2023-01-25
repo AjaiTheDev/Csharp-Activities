@@ -1,24 +1,24 @@
-﻿var today = DateTime.Today;
+﻿var Today = DateTime.Today;
 
-Console.WriteLine("enter dob in YYYY:MM:DD format");
+Console.WriteLine("enter dob in YYYY-MM-DD format");
 var Bday = Console.ReadLine();
-var myDate = Convert.ToDateTime(Bday);
-var day = (today - myDate).TotalDays;
+var MyDate = Convert.ToDateTime(Bday);
+var Day = (Today - MyDate).TotalDays;
 
-int daysInt = (int)day;
-int age = daysInt / 365;
-int ageHours = daysInt * 24;
-int ageWeeks = daysInt / 7;
-int ageMonths = age * 12;
+int DaysInt = (int)Day;
+int Age = DaysInt / 365;
+int AgeHours = DaysInt * 24;
+int AgeWeeks = DaysInt / 7;
+int AgeMonths = Age * 12;
 
 
-Console.WriteLine($"You are {age} years old");
-Console.WriteLine($"You are {ageHours} Hours old");
-Console.WriteLine($"You are {daysInt} days old");
-Console.WriteLine($"You are {ageWeeks} Weeks old");
-Console.WriteLine($"You are {ageMonths} Months old");
+Console.WriteLine($"You are {Age} years old");
+Console.WriteLine($"You are {AgeHours} Hours old");
+Console.WriteLine($"You are {DaysInt} days old");
+Console.WriteLine($"You are {AgeWeeks} Weeks old");
+Console.WriteLine($"You are {AgeMonths} Months old");
 
-if ((myDate.Year) % 4 == 0)
+if ((MyDate.Year) % 4 == 0)
 {
     Console.WriteLine("leap year");
 }

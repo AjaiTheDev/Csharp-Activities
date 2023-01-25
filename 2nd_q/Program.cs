@@ -1,30 +1,29 @@
 ﻿Console.WriteLine("\n different fares\n");
+Console.WriteLine("enter the Fare");
+double Fare = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("\nenter the BookingTime");
+int BookingTime = Convert.ToInt32(Console.ReadLine());
+double ChangedFare = 0;
 
-Console.WriteLine("enter the fare");
-double fare = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("\nenter the time");
-int time = Convert.ToInt32(Console.ReadLine());
-double changedFare = 0;
-
-if (time > 6 & time < 9)
+if (BookingTime > 6 & BookingTime < 9)
 {
-    changedFare = fare + (fare * 10 / 100);
-    Console.WriteLine("\nfare = {0}", changedFare);
+    ChangedFare = Fare + (Fare * 10 / 100);
+    Console.WriteLine("\nfare = {0}", ChangedFare);
 }
-if (time > 9 & time < 17)
+if (BookingTime > 9 & BookingTime < 17)
 {
-    changedFare = fare + (fare * 20 / 100);
-    Console.WriteLine("\nfare = {0}", changedFare);
+    ChangedFare = Fare + (Fare * 20 / 100);
+    Console.WriteLine("\nfare = {0}", ChangedFare);
 }
-if (time > 17 & time < 23)
+if (BookingTime > 17 & BookingTime < 23)
 {
-    changedFare = fare + (fare * 7 / 100);
-    Console.WriteLine("\nfare = {0}", changedFare);
+    ChangedFare = Fare + (Fare * 7 / 100);
+    Console.WriteLine("\nfare = {0}", ChangedFare);
 }
-if (time < 6)
+if (BookingTime < 6)
 {
-    changedFare = fare + (fare * 5 / 100);
-    Console.WriteLine("\nfare = {0}", changedFare);
+    ChangedFare = Fare + (Fare * 5 / 100);
+    Console.WriteLine("\nfare = {0}", ChangedFare);
 }
 
 

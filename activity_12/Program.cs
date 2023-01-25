@@ -1,30 +1,30 @@
 ﻿
-string?[] nameArray = new string[3];
-string?[] destinationArray = new string[3];
+string?[] NameArray = new string[10];
+string?[] DestinationArray = new string[10];
 
 
 Console.WriteLine("enter the names of passengers");
 
-for (int i = 0; i < 3; i++)
+for (int i = 0; i < 10; i++)
 {
-    nameArray[i] = Console.ReadLine();
+    NameArray[i] = Console.ReadLine();
 }
 
 Console.WriteLine("\nenter the destinations");
 
-for (int i = 0; i < 3; i++)
+for (int i = 0; i < 10; i++)
 {
-    destinationArray[i] = Console.ReadLine();
+    DestinationArray[i] = Console.ReadLine();
 }
 
-var arr = new String[nameArray.Length];
+var Arr = new String[NameArray.Length];
 
-for (int i = 0; i < nameArray.Length; i++)
+for (int i = 0; i < NameArray.Length; i++)
 {
-    arr[i] = $"{nameArray[i]} : {destinationArray[i]}";
+    Arr[i] = $"{NameArray[i]} : {DestinationArray[i]}";
 }
 
-foreach (var item in arr)
+foreach (var item in Arr)
 {
     Console.WriteLine(item);
 }

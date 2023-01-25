@@ -3,59 +3,56 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("enter the limit");
-        int limit = Convert.ToInt32(Console.ReadLine());
-        string[] array = new string[limit];
+        Console.WriteLine("enter the Limit");
+        int Limit = Convert.ToInt32(Console.ReadLine());
+        string[] MyArray = new string[Limit];
         string temp;
 
 
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 0; i < MyArray.Length; i++)
         {
 
-            array[i] = Console.ReadLine();
+            MyArray[i] = Console.ReadLine();
 
         }
 
         Console.WriteLine("\nbefore sorting\n");
 
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 0; i < MyArray.Length; i++)
         {
-            Console.WriteLine(array[i]);
+            Console.WriteLine(MyArray[i]);
         }
 
         // sorting
 
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 0; i < MyArray.Length; i++)
         {
-            for (int j = i + 1; j < array.Length; j++)
+            for (int j = i + 1; j < MyArray.Length; j++)
             {
-                int isGreater = string.Compare(array[i].ToLower(), array[j].ToLower());
+                int isGreater = string.Compare(MyArray[i].ToLower(), MyArray[j].ToLower());
 
                 if (isGreater == 1)
                 {
-                    temp = array[i];
-                    array[i] = array[j];
-                    array[j] = temp;
+                    temp = MyArray[i];
+                    MyArray[i] = MyArray[j];
+                    MyArray[j] = temp;
                 }
             }
         }
 
         // after sorting
         Console.WriteLine("\nafter sorting\n");
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 0; i < MyArray.Length; i++)
         {
-            Console.WriteLine(array[i]);
+            Console.WriteLine(MyArray[i]);
         }
 
 
         // reverse sorting
         Console.WriteLine("\nReverse Sorting\n");
-        for (int i = array.Length - 1; i >= 0; i--)
+        for (int i = MyArray.Length - 1; i >= 0; i--)
         {
-            Console.WriteLine(array[i]);
+            Console.WriteLine(MyArray[i]);
         }
-
-
-
     }
 }

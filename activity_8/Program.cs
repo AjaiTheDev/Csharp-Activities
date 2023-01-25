@@ -1,36 +1,36 @@
 ﻿using System.Transactions;
 
-Console.WriteLine("display  nth position");
+Console.WriteLine("display  nth Position");
 
-double[] myArray = new double[3];
-string?[] myStringArray = new string[3];
-int position;
+double[] MyArray = new double[10];
+string?[] MyStringArray = new string[10];
+int Position;
 
 
 Console.WriteLine("enter the destinations");
-for(int i = 0;i < 3; i++)
+for(int i = 0;i < 10; i++)
 {
-    myStringArray[i] = Console.ReadLine(); 
+    MyStringArray[i] = Console.ReadLine(); 
 }
 
 Console.WriteLine("\nEnter the fares");
-for (int i = 0; i < 3; i++)
+for (int i = 0; i < 10; i++)
 {
-    myArray[i] = Convert.ToDouble(Console.ReadLine());
+    MyArray[i] = Convert.ToDouble(Console.ReadLine());
 }
 
 
-Console.WriteLine("\nenter the position which you want to search");
-position= Convert.ToInt32(Console.ReadLine());
-if((position > myArray.Length) || (position > myStringArray.Length))
+Console.WriteLine("\nenter the Position which you want to search");
+Position= Convert.ToInt32(Console.ReadLine());
+if((Position > MyArray.Length) || (Position > MyStringArray.Length))
 {
 
-    Console.WriteLine("There is no element in that position");
+    Console.WriteLine("There is no element in that Position");
 }
 else
 {
-    Console.WriteLine($"Destination: {myStringArray[position-1]}");
-    Console.WriteLine($"Fare = {myArray[position-1]}");
+    Console.WriteLine($"Destination: {MyStringArray[Position-1]}");
+    Console.WriteLine($"Fare = {MyArray[Position-1]}");
 }
 
 

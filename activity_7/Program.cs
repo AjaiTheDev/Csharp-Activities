@@ -1,32 +1,32 @@
 ﻿Console.WriteLine("enter the passenger details");
 
 Console.Write("name:");
-string? fName = Console.ReadLine();
+string? FName = Console.ReadLine(); // read name from users
 Console.WriteLine("enter the miles traveled");
-int milesTraveled = Convert.ToInt32(Console.ReadLine());
-int freqFlightPoints;
+int MilesTraveled = Convert.ToInt32(Console.ReadLine());
+int FreqFlightPoints;
 
-if(milesTraveled > 10000 && milesTraveled < 20000)
+if(MilesTraveled > 10000 && MilesTraveled < 20000)
 {
-    freqFlightPoints = 10;
+    FreqFlightPoints = 10;
 }
-else if(milesTraveled > 20000 && milesTraveled < 50000)
+else if(MilesTraveled > 20000 && MilesTraveled < 50000)
 {
-    freqFlightPoints = 20;
+    FreqFlightPoints = 20;
 }
-else if(milesTraveled > 50000 && milesTraveled < 100000)
+else if(MilesTraveled > 50000 && MilesTraveled < 100000)
 {
-    freqFlightPoints= 30;
+    FreqFlightPoints= 30;
 }
-else if(milesTraveled > 100000)
+else if(MilesTraveled > 100000)
 {
-    freqFlightPoints= 50;
+    FreqFlightPoints= 50;
 }
 else
 {
-    freqFlightPoints= 0;
+    FreqFlightPoints= 0;
 }
 
-Console.WriteLine($"\n{fName}");
-Console.WriteLine("miles traveled: {0} ", milesTraveled);
-Console.WriteLine("flight points: {0}", freqFlightPoints);
+Console.WriteLine($"\n{FName}");
+Console.WriteLine("miles traveled: {0} ", MilesTraveled);
+Console.WriteLine("flight points: {0}", FreqFlightPoints);

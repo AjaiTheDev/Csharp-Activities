@@ -1,28 +1,28 @@
-﻿double[] arr = new double[10];
-double[] arr2 = new double[50];
-for (int i = 0; i < arr.Length; i++)
+﻿double[] Arr = new double[10];
+double[] Arr2 = new double[50];
+for (int i = 0; i < Arr.Length; i++)
 {
-    arr[i] = Convert.ToDouble(Console.ReadLine());
+    Arr[i] = Convert.ToDouble(Console.ReadLine());
 }
 int j = -1;
-for (int i = 0; i < arr.Length; i++)
+for (int i = 0; i < Arr.Length; i++)
 {
-    if ((int)arr[i] % 2 != 0)
+    if ((int)Arr[i] % 2 != 0)
     {
         j += 2;
-        arr2[j] = arr[i];
+        Arr2[j] = Arr[i];
     }
 }
 int p = 0;
-for (int i = 0; i < arr.Length; i++)
+for (int i = 0; i < Arr.Length; i++)
 {
-    if ((int)arr[i] % 2 == 0)
+    if ((int)Arr[i] % 2 == 0)
     {
         p += 2;
-        arr2[p] = arr[i];
+        Arr2[p] = Arr[i];
     }
 }
-foreach (var item in arr2)
+foreach (var item in Arr2)
 {
     Console.WriteLine(item);
 }

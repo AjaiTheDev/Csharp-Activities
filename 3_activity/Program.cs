@@ -13,28 +13,28 @@ Console.WriteLine("5.maximum Fare");
 Console.WriteLine("6.duplicate");
 Console.WriteLine("7.exit");
 
-double[] array = new double[3];
-double temp = 0;
+double[] MyArray = new double[10];
+double Temp = 0;
 
 Console.WriteLine("enter the elements\n");
 
-for (int i = 0; i < array.Length; i++)
+for (int i = 0; i < 10; i++)
 {
-    array[i] = Convert.ToDouble(Console.ReadLine());
+    MyArray[i] = Convert.ToDouble(Console.ReadLine());
 
 
 }
 // sorting
 
-for (int i = 0; i < array.Length; i++)
+for (int i = 0; i < MyArray.Length; i++)
 {
-    for (int j = i + 1; j < array.Length; j++)
+    for (int j = i + 1; j < MyArray.Length; j++)
     {
-        if (array[j] < array[i])
+        if (MyArray[j] < MyArray[i])
         {
-            temp = array[i];
-            array[i] = array[j];
-            array[j] = temp;
+            Temp = MyArray[i];
+            MyArray[i] = MyArray[j];
+            MyArray[j] = Temp;
         }
     }
 }
@@ -74,17 +74,17 @@ void SortingFun()
 
     // after sorting
     Console.WriteLine("\nafter sorting\n");
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < MyArray.Length; i++)
     {
-        Console.WriteLine(array[i]);
+        Console.WriteLine(MyArray[i]);
     }
 
 }
 void RevSortingFun()
 {
-    for (int i = array.Length - 1; i >= 0; i--)
+    for (int i = MyArray.Length - 1; i >= 0; i--)
     {
-        Console.WriteLine(array[i]);
+        Console.WriteLine(MyArray[i]);
     }
 }
 
@@ -93,7 +93,7 @@ void SearchFun()
     Console.WriteLine("\n enter the search element");
     double searchVal = Convert.ToDouble(Console.ReadLine());
     int count = 0;
-    foreach (var item in array)
+    foreach (var item in MyArray)
     {
         if (item == searchVal)
         {
@@ -112,24 +112,24 @@ void SearchFun()
 
 void MinimumVal()
 {
-    Console.WriteLine("minimum value = {0}", array[0]);
+    Console.WriteLine("minimum value = {0}", MyArray[0]);
 }
 
 void MaximumVal()
 {
-    Console.WriteLine("maximum value = {0}", array[(array.Length) - 1]);
+    Console.WriteLine("maximum value = {0}", MyArray[(MyArray.Length) - 1]);
 }
 
 void Duplicate()
 {
 
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < MyArray.Length; i++)
     {
-        for (int j = i + 1; j < array.Length; j++)
+        for (int j = i + 1; j < MyArray.Length; j++)
         {
-            if (array[j] == array[i])
+            if (MyArray[j] == MyArray[i])
             {
-                Console.WriteLine($"{array[i]} at position {i} and {j}");
+                Console.WriteLine($"{MyArray[i]} at position {i} and {j}");
 
             }
 
